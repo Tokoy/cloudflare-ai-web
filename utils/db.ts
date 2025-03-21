@@ -108,6 +108,11 @@ export const textGenModels: Model[] = [{
     provider: 'workers-ai',
     type: 'chat'
 }, {
+    id: '@cf/deepseek-ai/deepseek-r1-distill-qwen-32b',
+    name: 'deepseek-r1-distill-qwen-32b',
+    provider: 'workers-ai',
+    type: 'chat'
+}, {
     id: '@hf/nexusflow/starling-lm-7b-beta',
     name: 'starling-lm-7b-beta',
     provider: 'workers-ai',
